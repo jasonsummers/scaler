@@ -1,0 +1,14 @@
+Priority Type,Priority
+candidate,Active-High
+candidate,Active-Medium
+candidate,Active-Low
+candidate,Archive
+candidate,Placed by Us
+candidate,Placed by Someone Else
+candidate,Found Own Job
+client,New
+clientcontact,New
+clientcontact,Archive
+clientcontact,Do Not Use
+clientcontact,Prospect
+clientcontact,Dormant
